@@ -85,7 +85,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+
 <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/xUA7b2OfgTuVzqpVXq/giphy.gif" width="40" height="40" />
 
 To share **royalty-free** texts with as many people as possible, we want to obtain a prototype of an automated system, which scales **automatically**, and **requires little or no administration effort.**
 
