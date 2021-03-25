@@ -39,16 +39,16 @@
   <h3 align="center">Cloud Native Library</h3>
 
   <p align="center">
-    Logiciel full serverless qui permet d'uploader et télécharger des ouvrages libres de droits. Ce système devra analyse automatiquement le contenu des textes selon des règles simples.
+    Logiciel full serverless qui permet d'uploader et télécharger des ouvrages libres de droits. Ce système analyse automatiquement le contenu des textes selon des règles simples.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/cloud-native-lib/cloud-native-library"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/cloud-native-lib/cloud-native-library">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/cloud-native-lib/cloud-native-library/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/cloud-native-lib/cloud-native-library/issues">Request Feature</a>
   </p>
 </p>
 
@@ -194,5 +194,3 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [issues-url]: https://github.com/cloud-native-lib/cloud-native-library/issues
 [license-shield]: https://img.shields.io/github/license/adrianruizmora/cloud-native-library.svg?style=for-the-badge
 [license-url]: https://github.com/adrianruizmora/cloud-native-library/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/cloud-native-lib
