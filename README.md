@@ -25,7 +25,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 
@@ -94,8 +94,10 @@ Here's a blank template to get started:
 
 ### Built With
 
-* []()
-* []()
+* []()Azure Cloud
+* []()Blob trigger
+* []()API REST
+* []()Python 3.6
 * []()
 
 
