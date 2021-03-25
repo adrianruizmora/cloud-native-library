@@ -33,7 +33,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/cloud-native-lib/cloud-native-library">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="600" height="500">
   </a>
 
   <h3 align="center">Cloud Native Library</h3>
