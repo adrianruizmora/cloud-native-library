@@ -94,12 +94,15 @@ To share **royalty-free** texts with as many people as possible, we want to obta
 ### Built With
 
 * []()Azure Cloud
+* []()Azure functions
+* []()MySQL Azure
 * []()Blob trigger
 * []()API REST
 * []()Python 3.6
 * []()Flask
 * []()Bootstrap
 * []()Javascript
+* []()Pep8
 
 
 <!-- GETTING STARTED -->
