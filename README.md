@@ -187,12 +187,12 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [contributors-shield]: https://img.shields.io/github/contributors/cloud-native-lib/cloud-native-library.svg?style=for-the-badge
 [contributors-url]: https://github.com/cloud-native-lib/cloud-native-library/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/cloud-native-lib/cloud-native-library.svg?style=for-the-badge
-[forks-url]: https://github.com/adrianruizmora/cloud-native-library/network/members
+[forks-url]: https://github.com/cloud-native-lib/cloud-native-library/network/members
 [stars-shield]: https://img.shields.io/github/stars/cloud-native-lib/cloud-native-library.svg?style=for-the-badge
 [stars-url]: https://github.com/cloud-native-lib/cloud-native-library/stargazers
 [issues-shield]: https://img.shields.io/github/issues/cloud-native-lib/cloud-native-library.svg?style=for-the-badge
 [issues-url]: https://github.com/cloud-native-lib/cloud-native-library/issues
-[license-shield]: https://img.shields.io/github/license/cloud-native-lib/cloud-native-library.svg?style=for-the-badge
-[license-url]: https://github.com/cloud-native-lib/cloud-native-library/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/adrianruizmora/cloud-native-library.svg?style=for-the-badge
+[license-url]: https://github.com/adrianruizmora/cloud-native-library/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/cloud-native-lib
