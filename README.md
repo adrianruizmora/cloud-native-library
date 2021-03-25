@@ -85,7 +85,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
+![Alt Text](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
@@ -147,7 +147,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/cloud-native-lib/cloud-native-library/issues) for a list of proposed features (and known issues).
 
 
 
