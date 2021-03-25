@@ -120,11 +120,18 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/cloud-native-lib/cloud-native-library
    ```
-2. Install NPM packages
+2. Create env
    ```sh
-   npm install
+   python -m venv .env
+   ```
+    ```sh
+   .env\Scripts\activate.bat
+   ```
+3. Install requirements.txt packages
+   ```sh
+   python install -r requirements.txt
    ```
 
 
