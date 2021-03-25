@@ -85,7 +85,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Alt Text](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="40" height="40" />
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
