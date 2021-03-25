@@ -110,7 +110,6 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * Python
   ```sh
   python version 3.6
@@ -177,7 +176,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Adrian R, Nicolas P, Damien P
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/cloud-native-lib/cloud-native-library)
+Project Link: [https://github.com/cloud-native-lib/cloud-native-library](https://github.com/cloud-native-lib/cloud-native-library)
 
 
 
