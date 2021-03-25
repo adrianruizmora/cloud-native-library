@@ -86,7 +86,7 @@
 ## About The Project
 
 <div style='display:flex;'>
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="40" height="40" />
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="60" height="60" />
   <img src="https://media.giphy.com/media/xUA7b2OfgTuVzqpVXq/giphy.gif" width="60" height="60" />
 </div>
 
