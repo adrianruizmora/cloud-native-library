@@ -39,7 +39,7 @@
   <h3 align="center">Cloud Native Library</h3>
 
   <p align="center">
-    Logiciel full serverless qui permet d'uploader et télécharger des ouvrages libres de droits. Ce système analyse automatiquement le contenu des textes selon des règles simples.
+    Full serverless software that allows you to upload and download copyright-free books. This system automatically analyzes the content of texts according to simple rules.
     <br />
     <a href="https://github.com/cloud-native-lib/cloud-native-library"><strong>Explore the docs »</strong></a>
     <br />
@@ -87,9 +87,8 @@
 
 <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="40" height="40" />
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+To share **royalty-free** texts with as many people as possible, we want to obtain a prototype of an automated system, which scales **automatically**, and **requires little or no administration effort.**
+
 
 
 ### Built With
