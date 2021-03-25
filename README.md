@@ -122,7 +122,7 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/cloud-native-lib/cloud-native-library
    ```
-2. Create env
+2. Create & activate virtual environment
    ```sh
    python -m venv .env
    ```
