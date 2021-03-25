@@ -111,9 +111,9 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* Python
   ```sh
-  npm install npm@latest -g
+  python version 3.6
   ```
 
 ### Installation
@@ -175,18 +175,18 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Adrian R, Nicolas P, Damien P
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/github_username/repo_name](https://github.com/cloud-native-lib/cloud-native-library)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* []()Romain
+* []()Maxime
+* []()Elodie
 
 
 
