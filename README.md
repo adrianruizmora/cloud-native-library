@@ -33,7 +33,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/cloud-native-lib/cloud-native-library">
-    <img src="images/logo.png" alt="Logo" width="600" height="500">
+    <img src="images/logo.png" alt="Logo" width="300" height="200">
   </a>
 
   <h3 align="center">Cloud Native Library</h3>
@@ -98,8 +98,9 @@ Here's a blank template to get started:
 * []()Blob trigger
 * []()API REST
 * []()Python 3.6
-* []()
-
+* []()Flask
+* []()Bootstrap
+* []()Javascript
 
 
 <!-- GETTING STARTED -->
