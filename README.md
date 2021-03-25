@@ -179,7 +179,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Adrian R, Nicolas P, Damien P
+Adrian R, Nicolas P, Yoan S.
 
 Project Link: [https://github.com/cloud-native-lib/cloud-native-library](https://github.com/cloud-native-lib/cloud-native-library)
 
