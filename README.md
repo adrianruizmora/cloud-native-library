@@ -10,8 +10,6 @@
 *** github_username, repo_name, twitter_handle, email, project_title, project_description
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -20,14 +18,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -51,8 +47,6 @@
     <a href="https://github.com/cloud-native-lib/cloud-native-library/issues">Request Feature</a>
   </p>
 </p>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -80,9 +74,8 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 <div style='display:flex;'>
@@ -92,30 +85,28 @@
 
 To share **royalty-free** texts with as many people as possible, we want to obtain a prototype of an automated system, which scales **automatically**, and **requires little or no administration effort.**
 
-
-
 ### Built With
 
-* []()Azure Cloud
-* []()Azure functions
-* []()MySQL Azure
-* []()Blob trigger
-* []()API REST
-* []()Python 3.6
-* []()Flask
-* []()Bootstrap
-* []()Javascript
-* []()Pep8
-
+- []()Azure Cloud
+- []()Azure functions
+- []()MySQL Azure
+- []()Blob trigger
+- []()API REST
+- []()Python 3.6
+- []()Flask
+- []()Bootstrap
+- []()Javascript
+- []()Pep8
 
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-* Python
+- Python
   ```sh
   python version 3.6
   ```
@@ -130,7 +121,7 @@ To get a local copy up and running follow these simple steps.
    ```sh
    python -m venv .env
    ```
-    ```sh
+   ```sh
    .env\Scripts\activate.bat
    ```
 3. Install requirements.txt packages
@@ -138,25 +129,22 @@ To get a local copy up and running follow these simple steps.
    python install -r requirements.txt
    ```
 
-
-
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-
-
 <!-- ROADMAP -->
+
 ## Roadmap
 
 See the [open issues](https://github.com/cloud-native-lib/cloud-native-library/issues) for a list of proposed features (and known issues).
 
-
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -167,37 +155,31 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
 Adrian R, Nicolas P, Damien P
 
 Project Link: [https://github.com/cloud-native-lib/cloud-native-library](https://github.com/cloud-native-lib/cloud-native-library)
 
-
-
 <!-- ACKNOWLEDGEMENTS -->
+
 ## Acknowledgements
 
-* []()Romain
-* []()Maxime
-* []()Elodie
-
-
-
-
+- []()Romain
+- []()Maxime
+- []()Elodie
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/cloud-native-lib/cloud-native-library.svg?style=for-the-badge
 [contributors-url]: https://github.com/cloud-native-lib/cloud-native-library/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/cloud-native-lib/cloud-native-library.svg?style=for-the-badge
@@ -206,5 +188,5 @@ Project Link: [https://github.com/cloud-native-lib/cloud-native-library](https:/
 [stars-url]: https://github.com/cloud-native-lib/cloud-native-library/stargazers
 [issues-shield]: https://img.shields.io/github/issues/cloud-native-lib/cloud-native-library.svg?style=for-the-badge
 [issues-url]: https://github.com/cloud-native-lib/cloud-native-library/issues
-[license-shield]: https://img.shields.io/github/license/adrianruizmora/cloud-native-library.svg?style=for-the-badge
-[license-url]: https://github.com/adrianruizmora/cloud-native-library/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/cloud-native-lib/cloud-native-library.svg?style=for-the-badge
+[license-url]: https://github.com/cloud-native-lib/cloud-native-library/blob/master/LICENSE.txt
