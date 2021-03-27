@@ -189,4 +189,4 @@ Project Link: [https://github.com/cloud-native-lib/cloud-native-library](https:/
 [issues-shield]: https://img.shields.io/github/issues/cloud-native-lib/cloud-native-library.svg?style=for-the-badge
 [issues-url]: https://github.com/cloud-native-lib/cloud-native-library/issues
 [license-shield]: https://img.shields.io/github/license/cloud-native-lib/cloud-native-library.svg?style=for-the-badge
-[license-url]: https://github.com/cloud-native-lib/cloud-native-library/blob/master/LICENSE.txt
+[license-url]: https://github.com/cloud-native-lib/cloud-native-library/main/LICENSE.txt
