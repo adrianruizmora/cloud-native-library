@@ -93,7 +93,7 @@ def main(args,config):
             logging.info(f"The file {upload(args.cible,blobclient)}has been add on container")
 
 
-if __name__=="__uploadbook__":
+if __name__=="__main__":
     parser=argparse.ArgumentParser("Logiciel d'uploap livre dans un container Azure")
     parser.add_argument("-cfg",default="config.ini",help="chemin du fichier de configuration")
     parser.add_argument("-lvl",default = "info", help="niveau de log")
