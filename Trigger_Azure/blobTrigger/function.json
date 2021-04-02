@@ -1,0 +1,13 @@
+{
+  "scriptFile": "__init__.py",
+  "bindings": [
+    {
+      "name": "newBlob",
+      "type": "blobTrigger",
+      "direction": "in",
+      "path": "library/{name}",
+      "connection": "cloudlibrary2_STORAGE"
+    }
+  ],
+  "disabled": false
+}
